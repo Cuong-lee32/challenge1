@@ -1,0 +1,17 @@
+D:\test_vscode19\MyMp3Player\MyMp3Player\bin\Debug\netcoreapp3.1\MyMp3Player.exe
+D:\test_vscode19\MyMp3Player\MyMp3Player\bin\Debug\netcoreapp3.1\MyMp3Player.deps.json
+D:\test_vscode19\MyMp3Player\MyMp3Player\bin\Debug\netcoreapp3.1\MyMp3Player.runtimeconfig.json
+D:\test_vscode19\MyMp3Player\MyMp3Player\bin\Debug\netcoreapp3.1\MyMp3Player.runtimeconfig.dev.json
+D:\test_vscode19\MyMp3Player\MyMp3Player\bin\Debug\netcoreapp3.1\MyMp3Player.dll
+D:\test_vscode19\MyMp3Player\MyMp3Player\bin\Debug\netcoreapp3.1\MyMp3Player.pdb
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.csproj.AssemblyReference.cache
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.Form1.resources
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.Properties.Resources.resources
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.csproj.GenerateResource.cache
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.GeneratedMSBuildEditorConfig.editorconfig
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.AssemblyInfoInputs.cache
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.AssemblyInfo.cs
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.csproj.CoreCompileInputs.cache
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.dll
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.pdb
+D:\test_vscode19\MyMp3Player\MyMp3Player\obj\Debug\netcoreapp3.1\MyMp3Player.genruntimeconfig.cache
